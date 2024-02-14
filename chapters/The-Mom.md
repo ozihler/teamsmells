@@ -1,0 +1,1 @@
+Sees themselves as the head of the team family and treats them as children.

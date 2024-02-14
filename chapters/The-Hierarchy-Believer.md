@@ -1,0 +1,1 @@
+Mistreats or ignores team members with lower "rank", while making puppy eyes to team members and business representatives with higher "rank" or status.

@@ -1,0 +1,1 @@
+ScM as Team Lead, PO as Team Lead, developers underneath, hierarchically aligned according to their title.

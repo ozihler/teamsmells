@@ -1,0 +1,1 @@
+Single Point of Failure as they accumulate all the domain or system knowledge while keeping out other team members from contributing.

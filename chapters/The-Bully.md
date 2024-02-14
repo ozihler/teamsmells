@@ -1,0 +1,1 @@
+Openly mocks people for their developer or other skills.

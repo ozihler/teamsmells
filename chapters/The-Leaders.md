@@ -1,0 +1,1 @@
+A group of "leaders", typically ScM, PO, and high-ranked developers, decide on the fade of the rest of the team.

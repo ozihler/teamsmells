@@ -1,0 +1,1 @@
+Wants to introduce functional programming whereever they can, even though they use object-oriented programming

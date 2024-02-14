@@ -1,0 +1,1 @@
+One system that seemingly should be handled by one team is split across one or more departments.

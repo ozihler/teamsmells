@@ -1,0 +1,1 @@
+Adds code quickly and without regard for the underlying design
