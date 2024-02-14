@@ -4,6 +4,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 
 ## Why is it a problem?
 * Bugs likely due to lack of testing.
+  * Increased risk if the senior dev is also [a Hacker](The-Hacker.md).
 * Slowdown for new devs need to learn their framework which typically lacks documentation.
   * Increased if the senior dev is also [a Nerd](The-Nerd.md).
 * If something breaks, the team is stuck waiting for the senior dev to fix it.
