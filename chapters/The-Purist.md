@@ -4,7 +4,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 
 ## Why is it a problem?
 * Bugs likely due to lack of testing.
-  * Increased risk if the senior dev is also [a Hacker](The-Hacker.md).
+  * Increased risk if the senior dev is also [a Pragmatist](The-Pragmatist.md) or [a Hacker](The-Hacker.md).
 * Slowdown for new devs need to learn their framework which typically lacks documentation.
   * Increased if the senior dev is also [a Nerd](The-Nerd.md).
 * If something breaks, the team is stuck waiting for the senior dev to fix it.
@@ -16,7 +16,9 @@ A senior dev in the team that insists on implementing everything themselves inst
 * Mid- to Long term:
   * Introduce a well-established framework to the team.
 * In any case:
-  * Deal with [the Nerd](The-Nerd.md) if necessary.
+  * Deal with [the Nerd](The-Nerd.md) appropriately.
+  * Encourage [a Pragmatist](The-Pragmatist.md) to learn the value of abstractions.
+  * Encourage [a Hacker](The-Hacker.md) to see the long-term consequences of their quick fixes.
 
 ## Edge cases - when is it ok?
 * never
