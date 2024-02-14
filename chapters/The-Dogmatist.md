@@ -1,0 +1,1 @@
+Believe in some writers or programmers and blindly try to apply their knowledge in every project even though they have no proof of it actually working.

@@ -1,0 +1,1 @@
+uses Entity-Relationship diagrams instead of behavioural methods to describe a system functionality
