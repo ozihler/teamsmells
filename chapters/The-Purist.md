@@ -5,7 +5,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 ## Why is it a problem?
 * Bugs likely due to lack of testing.
   * Increased risk if the senior dev is also [a Pragmatist](The-Pragmatist.md) or [a Hacker](The-Hacker.md).
-* Slowdown for new devs need to learn their framework which typically lacks documentation.
+* Slowdown as new devs need to learn the framework which typically lacks documentation.
   * Increased if the senior dev is also [a Nerd](The-Nerd.md).
 * If something breaks, the team is stuck waiting for the senior dev to fix it.
 
@@ -24,7 +24,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 * if there is no framework available
 * if the available framework is not suitable for the project
 * if the available framework's expenses are higher than the costs of implementing it in-house (debatable)
-* if the in-house framework is a core subdomain that solves the problem the established framework solves in a new and exciting way (e.g. AI replacing Google Search for simple queries)
+* if the in-house framework is a core subdomain that solves the problem the established framework solves in a new and exciting way (e.g. AI replacing Google Search)
 
 ## Questions identify a Purist
 * Who maintains the in-house framework?
