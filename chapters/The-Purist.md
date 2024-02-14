@@ -21,6 +21,9 @@ A senior dev in the team that insists on implementing everything themselves inst
   * Encourage [a Hacker](The-Hacker.md) to see the long-term consequences of their quick fixes.
 
 ## Edge cases - when is it ok?
-* never
+* if there is no framework available
+* if the framework available is not suitable for the project
+* if the available framework's expenses are higher than the costs of implementing it in-house (debatable)
+* if the in-house framework is a core subdomain that solves the problem the established framework solves in a new and exciting way (e.g. AI replacing Google Search for simple queries)
 
 ## How does it happen?
