@@ -1,6 +1,6 @@
 # The Purist
 ## Explanation
-A senior dev in the team that insists on implementing everything themselves instead of using a well-established framework.
+A senior dev in the team that insists on implementing everything themselves instead of using well-established frameworks.
 
 ## Why is it a problem?
 * Bugs likely due to lack of testing. 
