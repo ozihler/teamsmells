@@ -26,5 +26,5 @@ They are a powerful tool to manage complexity, but they can also be overused.
 
 ## Related Smells
 * Opposite of [The Pragmatist](The-Pragmatist.md).
-* Can result from [an Alumni](The-Alumni.md) due to their inherent affinity for design.
+* Can result from [an Alumnus](The-Alumnus.md) due to their inherent affinity for design.
 * Often also has the tendency to be [a Refactoring Master](The-Refactoring-Master.md).
