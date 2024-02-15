@@ -5,10 +5,10 @@
 ### Technical Dysfunctions
 - [The Purist](The-Purist.md)
 - [The Technologist](The-Technologist.md)
-- [The Pragmatist](The-Pragmatist.md)
 - [The Hacker](The-Hacker.md)
 - [The Functionalist](The-Functionalist.md)
 - [The DB Architect](The-DB-Architect.md)
+- [The Pragmatist](The-Pragmatist.md)
 
 - [The Designer](The-Designer.md)
 - [The Refactoring Master](The-Refactoring-Master.md)
