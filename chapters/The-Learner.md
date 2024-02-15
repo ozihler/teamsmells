@@ -18,6 +18,7 @@ Learners introduce every new technology they come across into the project, even 
 
 ## Questions and Indications to identify a Learner
 * What is your main motivation to work in the team? (Learning new technologies)
+* What kind of technologies do you use in the current codebase? (A lot of different ones)
 
 ## How does it happen?
 * There is no decision-making process, peer pressure, or other oversight to limit the number of technologies used in a project.
