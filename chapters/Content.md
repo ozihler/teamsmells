@@ -11,8 +11,8 @@
 - [The DB Architect](The-DB-Architect.md)
 
 - [The Designer](The-Designer.md)
-- [The Alumnus](The-Alumnus.md)
 - [The Refactoring Master](The-Refactoring-Master.md)
+- [The Alumnus](The-Alumnus.md)
 
 - [The Theorist](The-Theorist.md)
 - [The Dogmatist](The-Dogmatist.md)
