@@ -25,13 +25,14 @@
 - [The Knowledge Hogger](The-Knowledge-Hogger.md)
 
 ### Personal Dysfunctions
-- [The Nerd](The-Nerd.md)
-- [The Ranter](The-Ranter.md)
+- [The Loner](The-Loner.md)
+- [The Silent One](The-Silent-One.md) 
 - [The Disengaged](The-Disengaged.md)
+- [The Ranter](The-Ranter.md)
 - [The Burned](The-Burned.md)
-- [The Silent One](The-Silent-One.md)
 - [The Alpha](The-Alpha.md)
 - [The Bully](The-Bully.md)
+- [The Rockstar](The-Rockstar.md)
 - [The Gas Lighter](The-Gas-Lighter.md)
 - [The Inverter](The-Inverter.md)
 - [The Threatened](The-Threatened.md)

@@ -1,0 +1,3 @@
+Sees himself as the sole authority on any technological subject, and is quick to dismiss any other opinions. He is a rockstar, and he knows it. He is the best at what he does, and is not afraid to let everyone know.
+Will pick fights in pull requests or team discussions until he gets his way. He is not afraid to be the only one in the team to disagree with a decision, and will not back down until he gets his way.
+Is loved by business especially.

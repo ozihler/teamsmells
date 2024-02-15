@@ -1,0 +1,1 @@
+Likes to work alone, all the time. Not necessarily unfriendly towards others.
