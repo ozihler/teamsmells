@@ -1,12 +1,14 @@
 # The Pragmatist
 ## Explanation
-A dev that removes abstractions that are necessary for the system to be maintainable by a team. 
+A dev that removes abstractions that are necessary for the system to be maintainable by a team.
+Abstractions are classes, methods, functions, or other constructs that hide the underlying complexity of a system.
 
 ## Why is it a problem?
 * Code that solely relies on primitive types and structures is hard to read and maintain for other devs.
 * The code does not reveal what it does in the domain, but only how it does it, hiding important business decisions.
 * Over time, the code can become a [Big Ball of Mud](https://en.wikipedia.org/wiki/Big_ball_of_mud) where changes take a long time to implement or cannot be implemented at all.
 * Code typically shows the [Primitive Obsession](https://refactoring.guru/smells/primitive-obsession) Code Smell.
+* They often use comments in code to indicate what the next part is doing, which would better be a method or function.
 
 ## How to fix it?
 * Introduce the Pragmatist to Domain-Driven Design to show the value of abstractions for core subdomains.
