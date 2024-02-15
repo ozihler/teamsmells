@@ -27,5 +27,5 @@
 * Developers are habitual. They are used to the way things are and are afraid of change.
 * They may have been in the company for a long time and are afraid of losing their job.
 
-## Related
+## Related Smells
 * The Threatened is often a senior developer with many years of experience, like [The Silverback](The-Silverback.md).

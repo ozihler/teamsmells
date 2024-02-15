@@ -13,7 +13,7 @@ Template
 
 ## How does it happen?
 
-## Related
+## Related Smells
 
 
 # Name
@@ -29,7 +29,7 @@ Template
 
 ## How does it happen? --> to prevent it early when forming teams
 
-## Related --> to which other smells is it related?
+## Related Smells --> to which other smells is it related?
 
 Other TODOs:
 - rename the Nerd -> it's a persona, not a symptom

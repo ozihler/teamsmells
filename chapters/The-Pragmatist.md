@@ -27,7 +27,7 @@ A dev that removes abstractions that are necessary for the system to be maintain
 
 ## How does it happen?
 
-## Related
+## Related Smells
 * [The Hacker](The-Hacker.md): closely related. A hacker wouldn't add unnecessary abstractions as they see no need for it.
 * Opposite of [The Designer](The-Designer.md).
 * Similar to [The Technologist](The-Technologist.md), but with a focus on low-level, procedural code design. This typically results in the use of mainly framework and low-level language features.

@@ -34,7 +34,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 * Purist always wanted to implement such a framework.
 * Other topics are too boring for the Purist.
 
-## Related
+## Related Smells
   * A Purist may also often be:
     * [a Nerd](The-Nerd.md),
     * [a Pragmatist](The-Pragmatist.md),

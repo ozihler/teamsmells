@@ -30,6 +30,6 @@ solely relies on framework knowledge as a means of measuring seniority
 * Nobody in the team has heard of these higher level practices.
 * Interest may be there to learn it, but business typically doesn't care about it (as it's not their field of expertise). I the team consists of [Yes Sayers](The-Yes-Sayers.md), they will sacrifice their own interests for more features and focus on quantitative implementation rather than qualitative design.
 
-## Related
+## Related Smells
 * Technologists often show signs of [a Nerd](The-Nerd.md).
 * A Technologist is also often [a Pragmatist](The-Pragmatist.md), [a Hacker](The-Hacker.md), and/or [a Purist](The-Purist.md)
