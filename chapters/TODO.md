@@ -1,5 +1,4 @@
-Team Antipatterns - A guide to high performing teams
-Team Smells, Team Member Smells
+Template
 
 # Name
 ## Explanation
@@ -31,3 +30,10 @@ Team Smells, Team Member Smells
 ## How does it happen? --> to prevent it early when forming teams
 
 ## Related --> to which other smells is it related?
+
+Other TODOs:
+- rename the Nerd -> it's a persona, not a symptom
+- create Personas as combinations of dysfunctions
+- create a matrix for dysfunction and severity
+- crate a matrix to rate people in the rankings
+- create a one pager for descriptions and questions to ask
