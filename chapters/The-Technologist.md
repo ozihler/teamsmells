@@ -2,7 +2,7 @@ solely relies on framework knowledge as a means of measuring seniority
 # The Technologist
 ## Explanation
 * Measures seniority solely on programming-language and framework knowledge.
-* Think interpersonal issues are best solved with more technology.
+* Thinks interpersonal issues are best solved with more technology.
 
 ## Why is it a problem?
 * Many software projects failed even though the entire team was very experienced in the tools they used.
