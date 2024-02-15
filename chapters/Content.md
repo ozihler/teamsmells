@@ -5,6 +5,7 @@
 ### Technical Dysfunctions
 - [The Purist](The-Purist.md)
 - [The Technologist](The-Technologist.md)
+- [The Learner](The-Learner.md)
 - [The Hacker](The-Hacker.md)
 - [The Functionalist](The-Functionalist.md)
 - [The DB Architect](The-DB-Architect.md)
