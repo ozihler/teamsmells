@@ -32,7 +32,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 * Absent business interest or assumption that the team will just know what they need to do.
 * Absent or weak peer pressure to use a well-established framework.
 * Purist always wanted to implement such a framework.
-* Other topics are too boring for the Purist.
+* Other topics and user stories are too trivial/boring for the Purist.
 
 ## Related Smells
   * A Purist may also often be:
