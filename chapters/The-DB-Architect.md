@@ -23,6 +23,6 @@
 
 ## How does it happen?
 * Old school, database-focused software engineering education without learning new methods over the years.
-* Typically a DB Architect also shows signs of [a Silverback](The-Silverback.md).
+* A DB Architect may often also show signs of [a Silverback](The-Silverback.md).
 * Lack of Domain Modelling knowledge.
 * "I have always done it that way!"
