@@ -9,8 +9,8 @@ solely relies on framework knowledge as a means of measuring seniority
 * Frameworks and languages change, but principles, practices, and patterns of writing good software don't.
 * Any senior developer should be able to pick up a new language or framework and be productive in a short time.
 * Due to newer developments like AI, the need for deep knowledge of a specific language or framework is decreasing.
-* Instead, the focus shifts towards software design and refactoring skills.
-* A developer may know a language or framework inside out, but still no qualify as a senior dev. 
+* Instead, the focus shifts towards software design skills.
+* A developer may know a language or framework inside out, but still not qualify as a senior dev. 
 
 ## How to fix it?
 * If a Technologist is a senior dev and shows signs of [a Nerd](The-Nerd.md), it can be very hard to fix without team changes, especially if the entire team is influenced by them.
