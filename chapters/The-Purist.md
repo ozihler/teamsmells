@@ -3,10 +3,8 @@
 A senior dev in the team that insists on implementing everything themselves instead of using a well-established framework.
 
 ## Why is it a problem?
-* Bugs likely due to lack of testing.
-  * Increased risk if the senior dev is also [a Pragmatist](The-Pragmatist.md) or [a Hacker](The-Hacker.md).
+* Bugs likely due to lack of testing. 
 * Slowdown as new devs need to learn the framework which typically lacks documentation.
-  * Increased if the senior dev is also [a Nerd](The-Nerd.md).
 * If something breaks, the team is stuck waiting for the senior dev to fix it.
 
 ## How to fix it?
@@ -38,6 +36,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 
 ## Related
   * A Purist may also often be:
+    * [a Nerd](The-Nerd.md),
     * [a Pragmatist](The-Pragmatist.md),
     * [a Hacker](The-Hacker.md), 
     * [a Technologist](The-Technologist.md), and/or 
