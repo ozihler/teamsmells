@@ -19,7 +19,7 @@ Builds own frameworks to support functional programming in OOP languages.
   For example Java streams follow a functional approach. 
   But the main paradigm should not be sacrificed for the other.
 
-## Questions to identify a Functionalist
+## Questions and Indications to identify a Functionalist
 * What is your opinion on object-oriented programming?
 
 ## How does it happen? 

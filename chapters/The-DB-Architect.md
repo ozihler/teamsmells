@@ -16,7 +16,7 @@
 * If the system is a pure CRUD application, it may be ok to use an ERD only.
 * ERDs are a great tool to describe the database structure of a system if we use SQL, but they cannot adequately describe the behavior fo the system.
 
-## Questions to identify a DB Architect
+## Questions and Indications to identify a DB Architect
 * What is the most important part in a software system?
 * Can you show a diagram of the system?
 

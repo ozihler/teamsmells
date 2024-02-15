@@ -21,7 +21,7 @@ solely relies on framework knowledge as a means of measuring seniority
 * Knowing a language or framework deeply is not a bad thing, but it should not be the only measure of seniority.
 * The more senior a developer gets, the less important specific framework knowledge and languages become compared to other aspects of software engineering.
 
-## Questions to identify a Technologist
+## Questions and Indications to identify a Technologist
 * What makes a senior developer for you?
 
 ## How does it happen?

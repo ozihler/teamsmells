@@ -21,7 +21,7 @@ A senior dev in the team that insists on implementing everything themselves inst
 * If the available framework's expenses are higher than the costs of implementing it in-house (debatable).
 * If the in-house framework is a core subdomain that solves the problem the established framework solves in a new and exciting way (e.g. AI replacing Google Search).
 
-## Questions to identify a Purist
+## Questions and Indications to identify a Purist
 * Which frameworks do you use here (if they mention an in-house framework, this is the lead to inquire further)?
 * Who maintains the in-house framework? (identifies the purists, because the rest of the team will not want to do that typically).
 * What is the reason for implementing this in-house? (indications (but not proof) for acceptable answers are the ones mentioned in the edge cases section).

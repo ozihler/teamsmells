@@ -9,7 +9,7 @@ Template
 
 ## Edge cases - when is it ok?
 
-## Questions to identify a 
+## Questions and Indications to identify a 
 
 ## How does it happen?
 
@@ -25,7 +25,7 @@ Template
 
 ## Edge cases - when is it ok?
 
-## Questions to identify a  --> for coaches
+## Questions and Indications to identify a  --> for coaches
 
 ## How does it happen? --> to prevent it early when forming teams
 
