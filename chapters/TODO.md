@@ -14,6 +14,8 @@ Team Smells, Team Member Smells
 
 ## How does it happen?
 
+## Related
+
 
 # Name
 ## Explanation
@@ -27,3 +29,5 @@ Team Smells, Team Member Smells
 ## Questions to identify a  --> for coaches
 
 ## How does it happen? --> to prevent it early when forming teams
+
+## Related --> to which other smells is it related?
