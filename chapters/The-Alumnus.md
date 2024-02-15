@@ -8,7 +8,7 @@ Uses lots of Design Patterns they learnt in Uni but that aren't useful to create
 * Other practices like Clean Code, Code Smell identification, Refactoring, and Domain-Driven Design yield better results for maintainability.
 
 ## How to fix it?
-* Tell them to avoid using Design Patterns as much as possible.
+* Tell them to avoid using Design Patterns in business software as much as possible.
 * Introduce them to Clean Code, Code Smells, Refactoring, and Domain-Driven Design instead.
 
 ## Edge cases - when is it ok?
