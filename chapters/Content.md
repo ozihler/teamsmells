@@ -30,6 +30,7 @@
 - [The Silent One](The-Silent-One.md) 
 - [The Disengaged](The-Disengaged.md)
 - [The Ranter](The-Ranter.md)
+- [The Quiter](The-Quiter.md)
 - [The Burned](The-Burned.md)
 - [The Alpha](The-Alpha.md)
 - [The Bully](The-Bully.md)
