@@ -9,15 +9,14 @@
 
 ## How to fix it?
 * Use behavioural methods like EventStorming or Event Modelling to describe the system from a business-domain perspective.
-* Avoid foreign key constraints between tables.
 * Employ strategic Domain-Driven Design to model and split the system using bounded contexts and domain experts.
-* Educate the DB Architect about new methods and paradigms like DDD, EventStorming, etc.
+* Educate the DB Architect on newer methods and paradigms like DDD, EventStorming, etc.
 
 ## Edge cases - when is it ok?
-* If the system is a pure CRUD application, it may be ok to use an ERD.
-* ERDs are a good tool to describe the data structure of a system if we use SQL, but they cannot adequately describe the behavior fo the system.
+* If the system is a pure CRUD application, it may be ok to use an ERD only.
+* ERDs are a great tool to describe the database structure of a system if we use SQL, but they cannot adequately describe the behavior fo the system.
 
-## Questions identify a XY
+## Questions to identify a DB Architect
 * What is the most important part in a software system?
 * Can you show a diagram of the system?
 

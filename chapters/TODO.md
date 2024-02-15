@@ -10,7 +10,7 @@ Team Smells, Team Member Smells
 
 ## Edge cases - when is it ok?
 
-## Questions identify a XY
+## Questions to identify a 
 
 ## How does it happen?
 
@@ -24,6 +24,6 @@ Team Smells, Team Member Smells
 
 ## Edge cases - when is it ok?
 
-## Questions identify a XY --> for coaches
+## Questions to identify a  --> for coaches
 
 ## How does it happen? --> to prevent it early when forming teams

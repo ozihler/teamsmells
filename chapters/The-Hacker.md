@@ -15,7 +15,7 @@ Adds code quickly and without regard for the underlying design.
 ## Edge cases - when is it ok?
 * sometimes, a hack is inevitable. But, it should be a tool like any other. The key is to mark and document it clearly and to make everyone aware of that hack to avoid accidental "fixing" or refactoring.
 
-## Questions identify a Hacker
+## Questions to identify a Hacker
 * What's your main goal when developing software? (e.g. speed, quality, maintainability, etc.)
 * Was there a specific reason why you disregarded the normal design?
 
