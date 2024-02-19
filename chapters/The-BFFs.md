@@ -22,7 +22,7 @@ There are scenarios where close collaboration between specific team members is b
 * Efficiency and Productivity: Short-term collaborations that leverage existing work relationships for efficiency without undermining team cohesion.
 * Mentorship and Training: When the purpose is to facilitate mentorship, where a more experienced team member pairs with a less experienced one for training.
 
-## Questions and Indications to identify a
+## Questions and Indications to identify BFFs
 * Are there team members who consistently work together to the exclusion of others?
 * Is there a lack of diversity in team collaboration and idea generation?
 * Do certain team members always support each other's ideas without considering alternatives?
