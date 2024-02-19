@@ -42,7 +42,7 @@
 
 ## Team Smells
 - [The Team of Individuals](The-Team-of-Individuals.md)
-- [The Daily Status Meeting](The-Daily-Status_Meeting.md)
+- [The Daily Status Meeting](The-Daily-Status-Meeting.md)
 - [The Leaders](The-Leaders.md)
 - [The Hierarchy](The-Hierarchy.md)
 - [The Non-Deciding Team](The-Non-Deciding-Team.md)
