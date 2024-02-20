@@ -3,10 +3,12 @@
 The Disengaged are team members who no longer contribute meaningfully to conversations or productively produce code. This lack of engagement can stem from various factors, including burnout, lack of motivation, or feeling undervalued.
 
 ## Why is it a problem?
-Their disengagement can lead to decreased productivity, lower team morale, and a lack of innovation, impacting the team's overall performance and cohesion.
+* Their disengagement can lead to decreased productivity, lower team morale, and a lack of innovation, impacting the team's overall performance and cohesion.
+* The team typically knows why they are disengaged, so there is always the potential for destructive behavior any moment.
 
 ## How to fix it?
-Addressing this requires understanding their concerns, offering support, realigning their roles and responsibilities, and fostering a culture that values each member's contribution.
+* Addressing this requires understanding their concerns, offering support, realigning their roles and responsibilities, and fostering a culture that values each member's contribution.
+* If nothing happens, a team change may be necessary.
 
 ## Edge cases - when is it ok?
 Brief periods of lower engagement can be normal, especially during times of personal stress or after completing a major project phase.
