@@ -14,10 +14,11 @@ In certain contexts, a hierarchical structure may be necessary for clarity of de
 ## Questions and Indications to identify a
 * Is decision-making centralized with little input from the team?
 * Do team members hesitate to contribute ideas or raise concerns?
-* Is there a clear divide between "management" and "staff"?
+* Is there a clear divide between "leadership (team)" and "staff"?
 
 ## How does it happen?
-Organizational culture, industry norms, or leadership styles can contribute to the establishment and maintenance of hierarchical team structures.
+* Organizational culture, industry norms, or leadership styles can contribute to the establishment and maintenance of hierarchical team structures.
+* Habit or prevalence for hierarchical structures can be deeply rooted.
 
 ## Related Smells
 Similar issues can arise in environments with "The Silos," where departments or teams operate independently without cross-collaboration, or "The Non-Deciding Team," where decision-making is hindered by the structure.
