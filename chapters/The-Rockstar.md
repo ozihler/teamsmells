@@ -4,7 +4,7 @@
 The Rockstar Developer sees themselves as the ultimate authority on technological subjects, quickly dismissing others' opinions. 
 Known for their confidence in their abilities, they are vocal about their perceived superiority. 
 They often engage in disputes over pull requests or discussions to ensure their preferences prevail, even if it means standing alone against team or company decisions.
-Due to their abilities, they are especially loved by business because they introduce features quickly as well as bugs, which he then promptly fixes as well, adding to his reputation as rockstar developer.
+Due to their abilities, they are especially loved by business because they introduce features quickly, as well as bugs, which they then promptly fix as well, adding to their reputation as rockstar developers.
 
 ## Why is it a problem?
 * This behavior can stifle team collaboration, create tension, and discourage others from contributing. 
