@@ -20,7 +20,7 @@ Due to their abilities, they are especially loved by business because they intro
 * They typically _are_ incredibly talented and resourceful - but "with great power comes great responsibility".
 * While expertise and confidence are valuable, they should not come at the expense of teamwork and respect for others' contributions.
 
-## Questions and Indications to identify a
+## Questions and Indications to identify a Rockstar Developer
 * Do they dominate discussions and decision-making?
 * Is there a pattern of conflict in collaborative processes?
 
