@@ -23,7 +23,7 @@
 - [The Subordinate](The-Subordinate.md)
 - [The Planner](The-Planner.md)
 - [The Mom](The-Mom.md)
-- [The Knowledge Hogger](The-Knowledge-Hogger.md)
+- [The Single Point of Failure](The-Single-Point-of-Failure.md)
 
 ### Personal Dysfunctions
 - [The Loner](The-Loner.md)

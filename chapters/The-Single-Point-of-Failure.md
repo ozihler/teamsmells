@@ -1,6 +1,6 @@
-# The Knowledge Hogger
+# The Single Point of Failure
 ## Explanation
-The Knowledge Hogger is someone who accumulates all the domain or technical system knowledge, intentionally keeping other team members from contributing or learning. This creates a Single Point of Failure within the team.
+The Single Point of Failure is someone who accumulates all the domain or technical system knowledge, intentionally keeping other team members from contributing or learning. This creates a Single Point of Failure within the team.
 
 ## Why is it a problem?
 * It leads to bottlenecks in workflows
@@ -10,8 +10,8 @@ The Knowledge Hogger is someone who accumulates all the domain or technical syst
 * It also hinders collaboration and knowledge sharing within the team.
 
 ## How to fix it?
-* Pair and Team Programming with the Knowledge Hogger.
-* Knowledge transfer sessions (e.g. [Big Picture EventStorming](https://www.eventstormingjournal.com/big%20picture/step-by-step-guide-to-run-your-big-picture-event-storming)) with the Knowledge Hogger.
+* Pair and Team Programming with the Single Point of Failure.
+* Knowledge transfer sessions (e.g. [Big Picture EventStorming](https://www.eventstormingjournal.com/big%20picture/step-by-step-guide-to-run-your-big-picture-event-storming)) with the Single Point of Failure.
 * Promote a culture of open knowledge sharing.
 * Implement useful documentation practices (e.g. EventStorming diagram).
 * Diversify project responsibilities with each "epic" or story.
@@ -19,7 +19,7 @@ The Knowledge Hogger is someone who accumulates all the domain or technical syst
 ## Edge cases - when is it ok?
 Specialized knowledge areas may require focused expertise, but even in these scenarios, sharing knowledge to avoid dependency on a single individual is crucial.
 
-## Questions and Indications to identify a Knowledge Hogger
+## Questions and Indications to identify a Single Point of Failure
 * Is there a reluctance to share knowledge or train others? 
 * Has the team experienced a significant setback due to the absence of a specific team member?
 
