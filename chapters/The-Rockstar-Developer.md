@@ -33,6 +33,6 @@ A combination of high skill levels, character traits, external recognition, and 
 * The Rockstar Developer may also be [a Hierarchy Believer](The-Hierarchy-Believer.md) as they often seek approval from those in higher positions or with greater status and look down upon those less skilled than them.
 * They are also typically:
   * [Pragmatists](The-Pragmatist.md) - they often focus on delivering results quickly, even if it means cutting corners.
-  * [Puristic](The-Puristic.md) - they often have strong opinions about the "right" way to do things.
+  * [Puristic](The-Purist.md) - they often have strong opinions about the "right" way to do things.
   * [Ranters](The-Ranter.md) - they often engage in disputes over pull requests or discussions to ensure their preferences prevail.
-  * [Functionalists](The-Functionalists.md) - probably because functional programming is not as well known as OOP, so they can feel superior.
+  * [Functionalists](The-Functionalist.md) - probably because functional programming is not as well known as OOP, so they can feel superior.
