@@ -29,8 +29,8 @@ A combination of high skill levels, character traits, external recognition, and 
 
 ## Related Smells
 * Similar issues can arise with [The Alpha](The-Alpha.md) who tends to dominate team dynamics, though the Rockstar's focus is more on technical prowess than general leadership or dominance.
-* The Rockstar Developer is also related to [The Single Point of Failure](The-Single-Point-of-Failure.md) as they often accumulate all the domain or technical system knowledge, intentionally keeping other team members from contributing or learning.
-* The Rockstar Developer is also related to [The Hierarchy Believer](The-Hierarchy-Believer.md) as they often seek approval from those in higher positions or with greater status.
+* The Rockstar Developer is also often [The Single Point of Failure](The-Single-Point-of-Failure.md) as they tend to accumulate all the domain or technical system knowledge, intentionally keeping other team members from contributing or learning.
+* The Rockstar Developer may also be [a Hierarchy Believer](The-Hierarchy-Believer.md) as they often seek approval from those in higher positions or with greater status and look down upon those less skilled than them.
 * They are also typically:
   * [Pragmatists](The-Pragmatist.md) - they often focus on delivering results quickly, even if it means cutting corners.
   * [Puristic](The-Puristic.md) - they often have strong opinions about the "right" way to do things.
