@@ -34,7 +34,7 @@
 - [The Burned](The-Burned.md)
 - [The Alpha](The-Alpha.md)
 - [The Bully](The-Bully.md)
-- [The Rockstar](The-Rockstar.md)
+- [The Rockstar](The-Rockstar-Developer.md)
 - [The Gas Lighter](The-Gas-Lighter.md)
 - [The Inverter](The-Inverter.md)
 - [The Threatened](The-Threatened.md)
