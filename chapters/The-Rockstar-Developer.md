@@ -36,3 +36,4 @@ A combination of high skill levels, character traits, external recognition, and 
   * [Puristic](The-Purist.md) - they often have strong opinions about the "right" way to do things.
   * [Ranters](The-Ranter.md) - they often engage in disputes over pull requests or discussions to ensure their preferences prevail.
   * [Functionalists](The-Functionalist.md) - probably because functional programming is not as well known as OOP, so they can feel superior.
+  * [Bullies](The-Bully.md) - they often tend to question other team members' or the entire team's abilities, sometimes even that of the whole company.
