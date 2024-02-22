@@ -1,0 +1,2 @@
+A team that says they are currently in the stabilisation phase, meaning they had lots of turn overs and now need to learn how to work together.
+Typically don't do pair or mob programming, so no distribution of domain or system knowledge, everybody does anything, scrum sc

@@ -53,3 +53,4 @@
 - [The Trenders](The-Trenders.md)
 - [The Yes Sayers](The-Yes-Sayers.md)
 - [The Task-In-Progress Syndrome](The-Task-In-Progress-Syndrome.md)
+- [The Team in Stabilisation Phase](The-Team-in-Stabilisation-Phase.md)
