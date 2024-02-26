@@ -40,6 +40,7 @@
 - [The Inverter](The-Inverter.md)
 - [The Threatened](The-Threatened.md)
 - [The Silverback](The-Silverback.md)
+- [The Swiss](The-Swiss.md)
 
 ## Team Smells
 - [The Team of Individuals](The-Team-of-Individuals.md)
