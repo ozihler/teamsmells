@@ -4,19 +4,18 @@
 The Burned refers to team members who, feeling hurt and disappointed by their experiences within the team or organization, seek justice or retribution by undermining or sabotaging team efforts. Their actions stem from a desire to address perceived injustices or grievances, often leading to destructive behaviors.
 
 ## Why is it a problem?
-This mindset can significantly harm team dynamics and productivity:
-
-Destructive Behavior: Actions aimed at undermining the team can disrupt projects and erode trust.
-Negative Atmosphere: The presence of such individuals can create a tense and negative working environment.
-Loss of Cohesion: Team unity is compromised, making collaborative efforts more difficult.
-Reduced Productivity: The focus shifts from achieving team goals to managing internal conflicts and mistrust.
+* Destructive Behavior: Actions aimed at undermining the team can disrupt projects and erode trust.
+* Negative Atmosphere: The presence of such individuals can create a tense and negative working environment.
+* Loss of Cohesion: Team unity is compromised, making collaborative efforts more difficult.
+* Reduced Productivity: The focus shifts from achieving team goals to managing internal conflicts and mistrust.
 
 ## How to fix it?
-Open Communication: Encourage an environment where grievances can be aired and addressed constructively.
-Conflict Resolution: Implement mechanisms for resolving conflicts and addressing grievances effectively.
-Supportive Environment: Provide support for individuals who feel marginalized or unfairly treated.
-Rebuild Trust: Work on rebuilding trust through transparent actions and inclusive team-building activities.
-Preventive Measures: Identify and address the root causes of dissatisfaction to prevent similar situations.
+* Open Communication: Encourage an environment where grievances can be aired and addressed constructively.
+* Conflict Resolution: Implement mechanisms for resolving conflicts and addressing grievances effectively.
+* Supportive Environment: Provide support for individuals who feel marginalized or unfairly treated.
+* Rebuild Trust: Work on rebuilding trust through transparent actions and inclusive team-building activities.
+* Preventive Measures: Identify and address the root causes of dissatisfaction to prevent similar situations.
+* als see [NASA: Manging trauma of a terminated project](https://appel.nasa.gov/2009/06/01/managing-the-trauma-of-a-terminated-project/)
 
 ## Edge cases - when is it ok?
 While seeking justice or addressing grievances is valid, destructive behavior towards the team is never acceptable. Efforts should always aim at constructive resolution and improvement.

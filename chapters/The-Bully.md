@@ -1,11 +1,10 @@
 # The Bully
 ## Explanation
-The Bully refers to a team member who openly mocks or belittles others for their development skills, technical abilities, or other professional competencies. This behavior creates a hostile environment, undermines team cohesion, and impacts the confidence and productivity of individuals.
+A Bully openly mocks or belittles others for their development skills, technical abilities, or other professional competencies. 
 
 # Why is it a problem?
 Bullying behavior can have serious consequences for a team:
-
-* Decreased Morale: Affected team members may feel undervalued and demotivated.
+* Decreased Morale: Affected team members may feel undervalued and demotivated. This can lead to burnout in the worst case.
 * Impaired Team Dynamics: Creates an atmosphere of fear and resentment, hindering open communication and collaboration.
 * Reduced Productivity: Individuals targeted by bullying are likely to be less productive and engaged in their work.
 * Talent Drain: Persistent bullying can lead to high turnover rates, as talented individuals leave to find more supportive environments.
