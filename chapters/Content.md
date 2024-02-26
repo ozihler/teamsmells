@@ -10,6 +10,7 @@
 - [The Functionalist](The-Functionalist.md)
 - [The DB Architect](The-DB-Architect.md)
 - [The Pragmatist](The-Pragmatist.md)
+- [The Pragmatic Pair-Programmer](The-Pragmatic-Pair-Programmer.md)
 
 - [The Designer](The-Designer.md)
 - [The Refactoring Master](The-Refactoring-Master.md)
