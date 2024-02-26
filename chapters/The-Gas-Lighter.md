@@ -4,6 +4,7 @@
 * Gas-lighting can take many forms, from subtle manipulation to outright deceit, and can be difficult to detect.
 * It is not uncommon for team leads or managers to engage in gas-lighting, using their authority to manipulate team dynamics and perceptions.
 * Typical sentences of the gas lighter are "*you have misunderstood that*".
+
 ## Why is it a problem?
 This manipulation undermines trust, fosters a toxic environment, and distracts from productive work. It can lead to conflict, reduced morale, and impaired team cohesion.
 
