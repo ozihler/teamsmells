@@ -6,7 +6,7 @@ though they have no proof of it actually working.
 
 ## Why is it a problem?
 
-* There are no silver bullets in software development.
+* There are no silver bullets in software development, every decision is context dependent, and there are trade-offs in any decisions.
 * Every project and team is different.
 * Every conceptual idea is subject to interpretation, and also the Dogmatist only has a subjective view on the matter.
 
@@ -29,7 +29,7 @@ Listen for phrases like:
 * "We need stateful domain models everywhere", even in simple CRUD applications.
 
 ## How does it happen?
-* Black and white thinking.
+* Black and white thinking patterns.
 * Lack of experience in the field.
 * Burned by a previous project and now overcompensating.
 
