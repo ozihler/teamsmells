@@ -23,11 +23,9 @@ though they have no proof of it actually working.
   software engineering is always about balancing trade-offs.
 
 ## Questions and Indications to identify a Dogmatist
-
 Listen for phrases like:
-
 * "We should not use microservices because Amazon merged theirs as well".
-* "Vertical Sliced Architecture is the only way to go". [The Pragmatist](The-Pragmatist.md)
+* "Vertical Sliced Architecture is the only way to go".
 * "We need stateful domain models everywhere", even in simple CRUD applications.
 
 ## How does it happen?
