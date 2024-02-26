@@ -23,7 +23,7 @@ Brief status updates are valuable for transparency and alignment but should not 
 * Do participants seem disengaged or see the meeting as a superfluous formality?
 
 ## How does it happen?
-This issue often arises from a misunderstanding of the meeting's purpose, leading to a routine focus on task progress at the expense of valuable communication and planning opportunities.
+* Often, a classic Command & Control management style can lead to a focus on task reporting and control rather than collaboration and improvement.
 
 ## Related Smells
 * The Silos: When teams or individuals work in isolation, similar to the narrow focus of status-only meetings.
